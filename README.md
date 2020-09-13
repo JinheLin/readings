@@ -1,2 +1,3 @@
 # study_materials
-Some study materials.
+自己的一些学习资料，持续更新中……
+
